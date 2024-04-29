@@ -1,0 +1,3 @@
+lists are two types
+ 1) ordered lists
+ 2)unordered lists
